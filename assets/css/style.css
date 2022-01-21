@@ -1,0 +1,84 @@
+
+#logo{
+    color: #fafafa;
+}
+a.hvr-underline-reveal:before{
+    background: #b00404;
+}
+i .fa-user{
+    font-size: 16px;
+}
+.nav-item{
+    text-align: center;
+}
+
+.float-right{
+    float: right;
+    align-items: right;
+}
+
+.index-col-title{
+    font-size: 26px;
+}
+
+.card{
+    margin: 25px;
+    padding: 10px;
+}
+
+.card-icon{
+    font-size: 48px;
+    margin: 10px;
+}
+
+hr{
+    padding: 0 50px;
+}
+
+.page-footer{
+    background: #b00404;
+    width: 100%;
+    margin: 0;
+    bottom: 0;
+    color: #fafafa;
+}
+
+.footer-icon{
+    font-size: 36px;
+    color: #fafafa;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.footer-contact-details p{
+    margin: 0;
+    padding: 0;
+}
+
+.footer-container{
+    padding: 10px;
+}
+figcaption.blockquote-footer{
+    color: rgb(235, 233, 233);
+}
+
+.btn-red{
+    background: #b00404;
+    color: #fcfcfc;
+}
+
+.btn-red:hover{
+    background: #9e0303;
+    color: #fff;
+}
+
+.img-sm{
+    max-width: 500px;
+}
+
+.details-section div{
+    overflow-x: hidden;
+    margin: 75px;
+}
